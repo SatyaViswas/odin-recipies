@@ -1,10 +1,10 @@
 # odin-recipies
-🍽️ Basic Recipes Website
+**🍽️ Basic Recipes Website**
 
 This is a simple HTML project built as part of The Odin Project - Foundations Course.
 The goal of this assignment was to practice basic HTML structure, linking pages, and working with text and images to create a small recipe website.
 
-📚 What This Project Includes
+**📚 What This Project Includes**
 
 A main index page that lists available recipes.
 
@@ -18,7 +18,7 @@ Step-by-step cooking instructions
 
 An image representing the dish (if included)
 
-🧩 Skills Demonstrated
+**🧩 Skills Demonstrated**
 
 Basic HTML markup
 
@@ -30,24 +30,7 @@ Using images in HTML (<img> tag)
 
 Organizing project files into folders
 
-🗂️ File Structure
-project-folder/
-│
-├── index.html
-└── recipes/
-    ├── recipe1.html
-    ├── recipe2.html
-    └── recipe3.html
-
-🚀 How to View the Project
-
-Download or clone the project folder.
-
-Open index.html in your browser.
-
-Navigate through the recipe links to explore.
-
-🎯 Learning Reflection
+**🎯 Learning Reflection**
 
 This project helped me get comfortable with:
 
